@@ -1,0 +1,6 @@
+{
+    "editor.defaultFormatter": "threatcon.vba-formatter",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    }
+}
